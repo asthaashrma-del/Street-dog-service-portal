@@ -2,7 +2,7 @@
 
 Street Dog Services Portal is a MERN stack-based project that I built to solve a real-world social issue related to street dog rescue and welfare.
 The main idea was to create a centralized platform where users can report injured or sick street dogs, find nearby rescuers, feeders, NGOs, or adoption-related services, and filter those services based on location. 
-
+ 
 ## Goal of the Project
 To demonstrate the ability to:
 
@@ -63,6 +63,11 @@ The Street Dog Services Portal solves this problem by providing a centralized, s
 ## Why This Project Matters
 This project was built to solve a real-world problem where street dog rescue and welfare support is often handled in an unorganized way through social media, local contacts, or informal communication channels.
 The **Street Dog Services Portal** provides a structured and centralized solution where users can easily find relevant help, report cases, and discover services available in their area. It combines technology with social impact, making it both technically strong and meaningful as a portfolio project.
+
+## How to Run
+
+### 1 - Clone the repository
+git clone https://github.com/your-username/Street-Dog-Services-Portal.git
 
 ## 2 - Navigate to the project folder
 cd Street-Dog-Services-Portal
