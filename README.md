@@ -139,12 +139,12 @@ Street-Dog-Services-Portal/
 - Building a digital support system for community animal welfare.
 
 ## Future Enhancements
-User authentication (Login / Signup)
-Volunteer / NGO dashboards
-Admin panel for service verification
-Real-time rescue request updates
-Image upload for rescue cases
-Google Maps integration
-Status tracking for reported cases
-Notifications for nearby rescue requests
-Role-based access for users, volunteers, and admins
+- User authentication (Login / Signup)
+- Volunteer / NGO dashboards
+- Admin panel for service verification
+- Real-time rescue request updates
+- Image upload for rescue cases
+- Google Maps integration
+- Status tracking for reported cases
+- Notifications for nearby rescue requests
+- Role-based access for users, volunteers, and admins
