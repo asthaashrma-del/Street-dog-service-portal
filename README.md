@@ -114,29 +114,29 @@ Street-Dog-Services-Portal/
 
 
 ## How It Works
-User Visits the Portal → Accesses the web application through the frontend
-Browse Services → Views available street dog-related services
-Filter by Location → Searches for services in a selected city or area
-Service Data Fetching → Frontend requests data from backend APIs
-Backend Processing → Express server handles the request logic
-MongoDB Storage → Service details are stored and retrieved from the database
-Display Results → Filtered or complete service data is shown on the frontend
+- User Visits the Portal → Accesses the web application through the frontend.
+- Browse Services → Views available street dog-related services.
+- Filter by Location → Searches for services in a selected city or area.
+- Service Data Fetching → Frontend requests data from backend APIs.
+- Backend Processing → Express server handles the request logic.
+- MongoDB Storage → Service details are stored and retrieved from the database.
+- Display Results → Filtered or complete service data is shown on the frontend.
 
 ## Core Workflow
-Service Listing → Stores rescue, feeding, adoption, or support services
-API Integration → React frontend communicates with Node/Express backend
-Database Handling → MongoDB stores structured records
-Filtering Logic → Location-based filtering helps users discover relevant services
-User Experience → Clean and simple UI for accessibility and ease of use
+- Service Listing → Stores rescue, feeding, adoption, or support services.
+- API Integration → React frontend communicates with Node/Express backend.
+- Database Handling → MongoDB stores structured records.
+- Filtering Logic → Location-based filtering helps users discover relevant services.
+- User Experience → Clean and simple UI for accessibility and ease of use.
 
 ## Use Cases
-Reporting injured or sick street dogs
-Finding nearby feeders or rescuers
-Discovering NGOs working in dog welfare
-Managing street dog-related service listings
-Supporting local adoption and rescue coordination
-Helping users quickly connect with relevant services in urgent situations
-Building a digital support system for community animal welfare
+- Reporting injured or sick street dogs.
+- Finding nearby feeders or rescuers.
+- Discovering NGOs working in dog welfare.
+- Managing street dog-related service listings.
+- Supporting local adoption and rescue coordination.
+- Helping users quickly connect with relevant services in urgent situations.
+- Building a digital support system for community animal welfare.
 
 ## Future Enhancements
 User authentication (Login / Signup)
